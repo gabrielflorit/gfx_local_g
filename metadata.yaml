@@ -1,0 +1,22 @@
+---
+headline: ""
+blurb: ""
+
+# `commercial_node` and `sub_node` are used for site tracking. Generally use
+# the graphic section for `commercial_node`. `sub_node` is optional.
+# e.g.: politics
+# more details: https://docs.google.com/document/d/1initQQ1X54ayb4Un5zv0zaiMSwiV5-tth8XzJ2itGso/
+commercial_node: ""
+sub_node: ""
+
+keywords:
+    - ""
+    - ""
+short_url: ""
+promo_image: ""
+
+# `authors` is used for site tracking.
+# please separate names by semicolons
+# e.g. "Emily Chow; Emily Yount; Seth Blanchard; Kevin Schaul"
+authors: ""
+blogname: ""
